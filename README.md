@@ -1,2 +1,2 @@
-# Ejercicios-tiendas-de-delibery
+# Ejercicios-tiendas-delibery
 EJERCICIO DE PROGRAMACION ORIENTADA A OBJETOS EN PYTHON, PARA LA MATERIA DE PROG 3- UPC
